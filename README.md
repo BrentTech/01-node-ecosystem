@@ -1,9 +1,9 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 01 Node Ecosystem
 
-### Author: Student/Group Name
+### Author: Brent Woodward
 
 ### Links and Resources
 * [repo](http://xyz.com)
